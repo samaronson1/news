@@ -32,5 +32,7 @@ header {
   background-color: #333333;
 }
 
-div.header2 row {
+div.flex-container {
   display:flex;
+  flex-direction: row;
+}
