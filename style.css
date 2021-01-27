@@ -35,6 +35,8 @@ header {
 div.flex-container {
   display:flex;
   flex-direction: row;
+  height: 200px;
+  length: 250px;
 }
 
 div.flex-container col1 {
