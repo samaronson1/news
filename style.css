@@ -6,9 +6,6 @@ h3 {
   background-color: #333333;
 }
 
-header2 {
-  margin-top:-50px;
-}
 
 .container {
      width auto;
@@ -46,12 +43,14 @@ div.flex-container {
 }
 
 div.flex-container col1 {
+  margin-top:-10px;
   background-color: Blue; 
   width: 50%;
   height:100%;
 }
 
 div.flex-container col2 {
+  margin-top:-10px;
   background-color: Red; 
   width: 50%;
   height:100%;
