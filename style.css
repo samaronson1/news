@@ -36,6 +36,7 @@ div.flex-container {
   display:flex;
   flex-direction: row;
   height: 20px;
+  width; 200px;
   align-items: stretch;
  
 }
