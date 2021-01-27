@@ -43,14 +43,14 @@ div.flex-container {
 }
 
 div.flex-container col1 {
-  margin-top:-25px;
+  margin-top:-20px;
   background-color: Blue; 
   width: 50%;
   height:100%;
 }
 
 div.flex-container col2 {
-  margin-top:-25px;
+  margin-top:-20px;
   background-color: Red; 
   width: 50%;
   height:100%;
