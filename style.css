@@ -55,3 +55,8 @@ div.flex-container col2 {
   width: 50%;
   height:100%;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
