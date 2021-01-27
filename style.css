@@ -43,8 +43,12 @@ div.flex-container {
 
 div.flex-container col1 {
   background-color: Blue; 
+  width: 50%;
+  height:100%;
 }
 
 div.flex-container col2 {
   background-color: Red; 
+  width: 50%;
+  height:100%;
 }
