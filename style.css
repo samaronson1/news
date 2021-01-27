@@ -13,11 +13,18 @@ h3 {
 
 div.header {
      padding 5px;
+     background-color: #333333;
 }
 
 div.header h1 {
      margin 5px;
+     background-color: #333333;
 }
 dive.header p {
      margin 0px; 
+     background-color: #333333;
+}
+
+header {
+  background-color: #333333;
 }
