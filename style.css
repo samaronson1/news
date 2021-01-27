@@ -5,3 +5,19 @@ h {
 h3 {
   background-color: #333333;
 }
+
+.container {
+     width auto;
+     margin 0; 
+}
+
+div.header {
+     padding 5px;
+}
+
+div.header h1 {
+     margin 5px;
+}
+dive.header p {
+     margin 0px; 
+}
