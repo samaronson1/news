@@ -25,7 +25,7 @@ div.header h1 {
 div.header h3 {
      margin 0px; 
      background-color: #333333;
-     color:White;
+     color: White;
 }
 
 header {
@@ -35,4 +35,8 @@ header {
 div.flex-container {
   display:flex;
   flex-direction: row;
+}
+
+div.flex-container col1 {
+  background-color: Blue; 
 }
