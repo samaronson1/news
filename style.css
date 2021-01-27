@@ -19,10 +19,12 @@ div.header {
 div.header h1 {
      margin 5px;
      background-color: #333333;
+     color:White;
 }
-dive.header p {
+dive.header h3 {
      margin 0px; 
      background-color: #333333;
+     color:White;
 }
 
 header {
