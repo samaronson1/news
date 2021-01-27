@@ -33,6 +33,7 @@ header {
 }
 
 div.flex-container {
+  margin: 0px;
   display:flex;
   flex-direction: row;
   height: 20px;
